@@ -11,4 +11,4 @@ spec:
     - name: 80-to-3000
       protocol: TCP
       port: 80
-      targetPort: 3000
+      targetPort: 80
